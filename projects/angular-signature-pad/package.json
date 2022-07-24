@@ -1,5 +1,5 @@
 {
-  "name": "@mcho/angular-signature-pad",
+  "name": "@maykc/angular-signature-pad",
   "version": "4.0.1",
   "scripts": {
     "build": "ng-packagr -p package.json",
@@ -8,7 +8,7 @@
   "description": "Angular Component wrapper for szimek/signature_pad",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/almothafar/angular-signature-pad.git"
+    "url": "git+https://github.com/mayurchoksi/angular-signature-pad.git"
   },
   "keywords": [
     "signature",
@@ -16,12 +16,12 @@
     "finger",
     "canvas"
   ],
-  "author": "Al-Mothafar Al-Hasan <almothafar@gmail.com> (https://almothafar.com)",
+  "author": "Mayur Choksi <mayurchoksi.one@gmail.com> (https://nonexistent.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/almothafar/angular-signature-pad/issues"
+    "url": "https://github.com/mayurchoksi/angular-signature-pad/issues"
   },
-  "homepage": "https://github.com/almothafar/angular-signature-pad#readme",
+  "homepage": "https://github.com/mayurchoksi/angular-signature-pad#readme",
   "peerDependencies": {
     "@angular/common": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0",
     "@angular/core": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0"
