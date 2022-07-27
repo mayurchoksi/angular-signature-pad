@@ -2,7 +2,7 @@
 Angular component for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).
 
 ## Install
-`npm install @almothafar/angular-signature-pad --save`
+`npm install mayurchoksi/angular-signature-pad --save`
 
 ## Reference Implementation
 
@@ -22,7 +22,7 @@ Options are as per [szimek/signature_pad](https://www.npmjs.com/package/signatur
 
 // import into app module
 
-import { SignaturePadModule } from '@almothafar/angular-signature-pad';
+import { SignaturePadModule } from 'maykc/angular-signature-pad';
 
 ...
 
@@ -36,7 +36,7 @@ import { SignaturePadModule } from '@almothafar/angular-signature-pad';
 // then import for use in a component
 
 import { Component, ViewChild } from '@angular/core';
-import { SignaturePadComponent } from '@almothafar/angular-signature-pad';
+import { SignaturePadComponent } from '@maykc/angular-signature-pad';
 
 @Component({
   template: '<signature-pad #signature [options]="signaturePadOptions" (drawStart)="drawStart($event)" (drawEnd)="drawComplete($event)"></signature-pad>'
