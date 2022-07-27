@@ -22,13 +22,13 @@ Options are as per [szimek/signature_pad](https://www.npmjs.com/package/signatur
 
 // import into app module
 
-import { SignaturePadModule } from 'maykc/angular-signature-pad';
+import { AngularSignaturePadModule } from '@maykc/angular-signature-pad';
 
 ...
 
 @NgModule({
   declarations: [ ],
-  imports: [ SignaturePadModule ],
+  imports: [ AngularSignaturePadModule ],
   providers: [ ],
   bootstrap: [ AppComponent ]
 })
