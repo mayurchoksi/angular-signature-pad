@@ -2,7 +2,7 @@
 Angular component for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).
 
 ## Install
-`npm install mayurchoksi/angular-signature-pad --save`
+`npm install @mayurchoksi/angular-signature-pad --save`
 
 ## Reference Implementation
 
